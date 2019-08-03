@@ -9,4 +9,7 @@ def toadstool
 end
 
 def link 
-  help_phrase= 
+  help_phrase= "It's Dangerous To Go Alone! Take This."
+  puts help_phrase
+end
+
